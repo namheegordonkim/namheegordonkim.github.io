@@ -1,0 +1,89 @@
+main:
+  - title: "Discovering Fatigued Movements for Virtual Character Animation"
+    authors: Noshaba Cheema, Rui Xu, <strong>Nam Hee Kim</strong>, Perttu Hämäläinen, Vladislav Golyanik, Marc Habermann, Christian Theobalt, Philipp Slusallek
+    conference_short: SIGGRAPH Asia
+    conference: ACM SIGGRAPH Asia 2023
+    page: https://vcai.mpi-inf.mpg.de/projects/FatiguedMovements/
+    image: ./assets/img/fatigue_teaser.gif
+    pdf: https://dl.acm.org/doi/10.1145/3610548.3618176
+
+  - title: "A Hybrid Generator Architecture for Controllable Face Synthesis"
+    authors: Dann Mensah, <strong>Nam Hee Kim</strong>, Miikka Aittala, Samuli Laine, Jaakko Lehtinen
+    conference_short: SIGGRAPH
+    conference: ACM SIGGRAPH 2023
+    page: https://research.nvidia.com/publication/2023-08_hybrid-generator-architecture-controllable-face-synthesis
+    image: ./assets/img/stylegan3d_thumb.png
+    pdf: https://d1qx31qr3h6wln.cloudfront.net/publications/StyleGAN3D_preprint.pdf
+
+
+  - title: "Understanding the Evolution of Linear Regions in Deep Reinforcement Learning"
+    authors: Setareh Cohan, <strong>Nam Hee Kim</strong>, David Rolnick, Michiel van de Panne
+    conference_short: NeurIPS
+    conference: Neural Information Processing Systems 2022 <strong>(NeurIPS)</strong>
+    page: https://www.cs.ubc.ca/~van/papers/2022-NeurIPS-understanding/index.html
+    image: ./assets/img/linear_regions_thumb.gif
+    pdf: https://arxiv.org/pdf/2210.13611
+
+  - title: "Learning High-Risk High-Precision Motion Control"
+    authors: <strong>Nam Hee Kim</strong>, Markus Kirjonen, Perttu Hämäläinen
+    conference_short: MIG
+    conference: ACM SIGGRAPH Conference on Motion, Interaction and Games 2022 <strong>(MIG)</strong>
+    page: https://namheegordonkim.github.io/scoot-mig2022/
+    image: ./assets/img/scoot_thumb.png
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3561975.3562943
+
+  - title: "Cascading Epigenomic Analysis for Identifying Disease Genes from the Regulatory Landscape of GWAS Variants"
+    authors: Bernard Ng, William Casazza, <strong>Nam Hee Kim</strong>, Chendi Wang, Farnush Farhadi, Shinya Tasaki, David A Bennett, Philip L De Jager, Christopher Gaiteri, Sara Mostafavi
+    conference_short: PLOS
+    conference: PLOS Genetics
+    page: https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009918
+    image: ./assets/img/cewas_thumb.png
+    # pdf: https://www.cs.ubc.ca/~van/papers/2021-SCA-modassist/2021-SCA-modassist.pdf
+
+  - title: "Flexible Motion Optimization with Modulated Assistive Forces"
+    authors: <strong>Nam Hee Kim*</strong>, Hung Yu Ling*, Zhaoming Xie, Michiel van de Panne
+    conference_short: SCA
+    conference: ACM SIGGRAPH / Eurographics Symposium on Computer Animation 2021 <strong>(SCA)</strong>
+    page: https://www.cs.ubc.ca/~van/papers/2021-SCA-modassist/index.html
+    image: ./assets/img/directable_physics_thumb.gif
+    pdf: https://www.cs.ubc.ca/~van/papers/2021-SCA-modassist/2021-SCA-modassist.pdf
+
+  - title: "ALLSTEPS: Curriculum-driven Learning of Stepping Stone Skills"
+    authors: Zhaoming Xie, Hung Yu Ling, <strong>Nam Hee Kim</strong>, Michiel van de Panne
+    conference_short: SCA
+    conference: ACM SIGGRAPH / Eurographics Symposium on Computer Animation 2020 <strong>(SCA)</strong>
+    page: https://www.cs.ubc.ca/~van/papers/2020-allsteps/index.html
+    image: ./assets/img/allsteps_thumb.png
+    notes: Best Paper
+    pdf: https://www.cs.ubc.ca/~van/papers/2020-allsteps/allsteps-arxiv-small.pdf
+
+  - title: Learning to Correspond Dynamical Systems
+    authors: <strong>Nam Hee Kim</strong>, Zhaoming Xie, Michiel van de Panne 
+    conference_short: L4DC
+    conference: Learning for Dynamics and Control 2020 (<strong>L4DC</strong>, In Proc. of Machine Learning Research), 2020.
+    page: https://sites.google.com/view/l2cds
+    image: ./assets/img/l2cds_thumb.png
+    notes: Oral Presentation
+    pdf: https://arxiv.org/pdf/1912.03015
+
+  # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
+  #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  #   conference_short: CVPR
+  #   conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+  #   pdf: https://arxiv.org/pdf/2002.10211.pdf
+  #   code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+  #   page: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   notes: Oral Presentation
+  #   image: ./assets/img/teaser_example.png
+  
+  # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
+  #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  #   conference_short: CVPR
+  #   conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+  #   pdf: https://arxiv.org/pdf/2002.10211.pdf
+  #   code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+  #   page: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   notes: Oral Presentation
+  #   image: ./assets/img/teaser_example.png
