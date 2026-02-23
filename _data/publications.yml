@@ -1,8 +1,8 @@
 main:
-  - title: "Robo-Saber: A Full-body Physics-based Virtual Reality Playtesting Agent"
-    authors: "<strong>Nam Hee Kim</strong>, May Liu, Perttu Hämäläinen, James F. O'Brien, Xue Bin Peng"
-    conference_short: Preprint
-    conference: Preprint (Under Review)
+  - title: "Robo-Saber: Generating and Simulating Virtual Reality Players"
+    authors: "<strong>Nam Hee Kim</strong>, May Liu, Jaakko Lehtinen, Perttu Hämäläinen, James F. O'Brien, Xue Bin Peng"
+    conference_short: Eurographics
+    conference: Eurographics 2026
     page: https://robo-saber.github.io/
     image: ./assets/img/robo_saber_teaser.gif
     pdf: https://users.aalto.fi/~kimn1/robo-saber/paper/robo-saber-preprint.pdf
