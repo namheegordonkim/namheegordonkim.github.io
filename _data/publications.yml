@@ -5,7 +5,7 @@ main:
     conference: Eurographics 2026
     page: https://robo-saber.github.io/
     image: ./assets/img/robo_saber_teaser.gif
-    pdf: https://users.aalto.fi/~kimn1/robo-saber/paper/robo-saber-preprint.pdf
+    pdf: https://arxiv.org/abs/2602.18319v1
 
   - title: "Discovering Fatigued Movements for Virtual Character Animation"
     authors: Noshaba Cheema, Rui Xu, <strong>Nam Hee Kim</strong>, Perttu Hämäläinen, Vladislav Golyanik, Marc Habermann, Christian Theobalt, Philipp Slusallek
