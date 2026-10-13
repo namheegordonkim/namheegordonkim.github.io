@@ -1,4 +1,11 @@
 main:
+  - title: "Generative Modeling of How We Type"
+    authors: "<strong>Nam Hee Kim</strong>, Xue Bin Peng, Jaakko Lehtinen, Perttu Hämäläinen, Antti Oulasvirta"
+    conference_short: ECCV Workshop
+    conference: "DexHAND Workshop at ECCV 2026 · Extended abstract (unpublished)"
+    page: https://typebot-eccv.github.io/
+    image: ./assets/img/typebot_teaser.gif
+
   - title: "Robo-Saber: Generating and Simulating Virtual Reality Players"
     authors: "<strong>Nam Hee Kim</strong>, May Liu, Jaakko Lehtinen, Perttu Hämäläinen, James F. O'Brien, Xue Bin Peng"
     conference_short: Eurographics
